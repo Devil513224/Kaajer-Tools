@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="108" fill="#0f2a5c" />
+  <rect x="38" y="38" width="436" height="436" rx="84" fill="none" stroke="#f57c00" stroke-width="14" stroke-opacity="0.35" />
+  <!-- Orange tool accent bar -->
+  <rect x="116" y="116" width="56" height="280" rx="22" fill="#f57c00" />
+  <!-- White crisp geometric K arms -->
+  <path d="M196 254 L334 116 C348 102 372 102 386 116 C400 130 400 154 386 168 L266 286 L390 346 C406 354 412 376 402 392 C392 408 370 412 352 402 L196 312 Z" fill="#ffffff" />
+  <circle cx="380" cy="144" r="34" fill="#ffb347" />
+</svg>

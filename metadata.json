@@ -1,0 +1,6 @@
+{
+  "name": "Kaajer Tools",
+  "description": "Kaajer Tools — বাংলা ও ইংরেজি ডিজিটাল ইউটিলিটি হাব। PDF Tools, Image Tools, Passport Photo Maker, Invoice, Salary Slip ও Application Maker সম্পূর্ণ ব্রাউজার-ভিত্তিক।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
